@@ -1,16 +1,16 @@
-### Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**Dukinha7/Dukinha7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu noe é Dukinha
 
-Here are some ideas to get you started:
+- Estou estudando na [ALURA](https://wwww.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- utilizo esse espaço para minha organização e e compartilhamento dos meu projeto desenvolvido
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você pode entar em contato comigo 📫
+
+gmail
+
+@
+
+![image](https://github.com/Dukinha7/Dukinha7/assets/169720223/588ee5f9-eae1-44b3-9bc1-f8a496ef47ea)
+
